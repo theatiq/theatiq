@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/d6JS8hX/canva-baner.png"  />
+  <img height="150" src="https://i.ibb.co.com/q7jyByn/git-cover-final.jpg"  />
 </div>
 
 ###
