@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/5MYvRFX/git-cover-str.jpg"  />
+  <img height="150" src="https://i.ibb.co.com/q7jyByn/git-cover-final.jpg"  />
 </div>
 
 ###
