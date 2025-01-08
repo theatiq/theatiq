@@ -51,7 +51,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?theatiq=yourusername&show_icons=true&theme=radical)
+
 
 
 ###
