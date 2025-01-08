@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/5MYvRFX/git-cover-str.jpg"  />
+  <img height="150" src="https://i.ibb.co.com/d6JS8hX/canva-baner.png"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a Front-end Developer from Bangladesh. I can create superb website using React.<br><br>- 🔭 I’m working as a developer<br>- 📚 I'm currently learning MongoDB, Python.<br>- ⚡ In my free time I play with my children.</p>
+<p align="left">I'm a Front-end Developer from Bangladesh. I can create superb website using React.<br><br>- 🔭 I’m working as a developer<br>- 📚 I'm currently learning  MongoDB, Python.<br>- ⚡ In my free time I play with my children.</p>
 
 ###
 
